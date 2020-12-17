@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+.maiin {
+    width: 600px;
+    height: 600px;
+}
+.main-content {
+    padding-right: px;
+    float: left;
+}
+.main-left.aside {
+    height: 200px;
+}
+.main-paragraph {
+    padding-right: 350px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 0px;
+}
+.main-footer {
+    clear: left;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
