@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container {
+    width: 960px;
+}
+.container .main-header {
+    width: 960px;
+}
+.container main-nav {
+    height: 300px;
+}
+.container .left-aside {
+    width 200px; 
+    float: 350px; 
+    float: left;
+}
+.container .main-section {
+    width: 650px; 
+    float: right;
+}
+.container .main-footer {
+    height: 50px; 
+    clear: both;
+}
