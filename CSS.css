@@ -2,26 +2,31 @@
 /* CSS Document */
 
 .maiin {
-    width: 600px;
-    height: 600px;
+    width: 900pt;
+    height: 140pt;
+    opacity: 0;
 }
 .main-content {
     padding-right: px;
-    float: left;
+    float: none;
+    width: 690pt;
+    height: 450pt;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 .main-left.aside {
-    height: 200px;
+    width: 270pt;
+    height: 450pt;
 }
 .main-paragraph {
-    padding-right: 350px;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    width: 0px;
+
 }
 .main-footer {
     clear: left;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+    width: 980pt;
+    height: 70pt;
 }
